@@ -1,0 +1,8 @@
+C:\Users\thoma\Downloads\asphalt_kivy
+myenv\Scripts\activate
+python untitled0.py
+
+python app.py
+pip install flask
+
+SELECT * FROM users;
